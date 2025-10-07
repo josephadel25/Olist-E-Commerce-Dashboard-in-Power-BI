@@ -41,9 +41,8 @@ The main goal was to extract **actionable insights** across key business areas �
 ```
 Olist-Ecommerce-Analysis/
 │
-├── Olist_Dashboard.pbix # Power BI Dashboard file
-├── Olist_Analysis_Notebook.ipynb # Python notebook for preprocessing
-├── cleaned_data.csv # Processed dataset (if allowed)
+├── Olist_Dashboard.pbix
+├── Olist_Analysis_Notebook.ipynb
 ├── images/ # Dashboard screenshots
 │ ├── dashboard_overview.png
 │ ├── revenue_insights.png
